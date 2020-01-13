@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 🚀
+          Deployed with Travis CI 🚀
         </a>
       </header>
     </div>
