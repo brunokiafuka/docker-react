@@ -21,3 +21,7 @@ docker run -p 3000:3000 -v \$(pwd):/app brunokiafuka/frontend
 > **84** is important. 80 is the default port for nginx
 
 `docker run -p 8080:80 <image id>`
+
+### AWS Elastic Beanstalk
+
+> Elastic Beanstalk is good when you are using a container at a time.
