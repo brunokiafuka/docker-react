@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deployed with Travis CI 🚀
+          Deployed with Travis 🚀
         </a>
       </header>
     </div>
